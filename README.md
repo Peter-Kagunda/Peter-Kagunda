@@ -2,9 +2,9 @@
 <h3 align="center">Web Developer • CMS Specialist • E-commerce Builder</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR-USERNAME?style=for-the-badge&logo=github" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Peter-Kagunda?style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Peter-Kagunda?style=for-the-badge&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Peter-Kagunda&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
