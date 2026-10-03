@@ -1,12 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Peter Kagunda</h1>
 <h3 align="center">Web Developer • CMS Specialist • E-commerce Builder</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Peter-Kagunda?style=for-the-badge&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Peter-Kagunda?style=for-the-badge&logo=github" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=Peter-Kagunda&style=for-the-badge" alt="Profile views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
